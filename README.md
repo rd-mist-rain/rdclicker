@@ -1,3 +1,4 @@
+**程序的两个大版本均已停更，rdclicker1的源码在code文件夹中，rdclicker2的项目文件在rdclicker文件夹中**
 # rdclicker
 #### 注意
 我们 **不建议您使用rdclicker1:1.1.0.1及rdclicker2:2a1.1以前的版本** ，因为在rdclicker1.1.0.1和2a1.1版本更新中，我们优化了程序的底层逻辑，避免程序的CPU使用率过高。使用之前的版本可能会使电脑CPU占用率过高从而让电脑变卡
