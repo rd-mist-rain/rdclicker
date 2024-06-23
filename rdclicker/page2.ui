@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Page2</class>
+ <widget class="QWidget" name="Page2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>777</width>
+    <height>473</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>配置界面</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>60</y>
+     <width>478</width>
+     <height>172</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>上滚滚轮</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QComboBox" name="comboBox_2">
+      <item>
+       <property name="text">
+        <string>LCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Esc</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Tab</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CapsLock</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>BackSpace</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Enter</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↑</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↓</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>←</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>→</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>A</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>B</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>C</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>D</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>E</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>G</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>H</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>I</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>J</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>K</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>M</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>N</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>O</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>P</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Q</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>R</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>S</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>T</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>U</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>V</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>W</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>X</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Y</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Z</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F10</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F11</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F12</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>其他键值（需要在配置文件中修改)</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QComboBox" name="comboBox">
+      <item>
+       <property name="text">
+        <string>LCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Esc</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Tab</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CapsLock</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>BackSpace</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Enter</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↑</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↓</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>←</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>→</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>A</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>B</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>C</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>D</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>E</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>G</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>H</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>I</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>J</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>K</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>M</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>N</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>O</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>P</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Q</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>R</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>S</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>T</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>U</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>V</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>W</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>X</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Y</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Z</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F10</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F11</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F12</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>其他键值（需要在配置文件中修改)</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>鼠标右键点击</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QComboBox" name="comboBox_4">
+      <item>
+       <property name="text">
+        <string>LCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Esc</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Tab</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CapsLock</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>BackSpace</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Enter</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↑</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↓</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>←</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>→</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>A</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>B</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>C</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>D</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>E</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>G</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>H</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>I</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>J</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>K</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>M</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>N</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>O</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>P</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Q</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>R</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>S</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>T</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>U</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>V</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>W</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>X</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Y</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Z</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F10</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F11</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F12</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>其他键值（需要在配置文件中修改)</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QComboBox" name="comboBox_5">
+      <item>
+       <property name="text">
+        <string>LCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RCtrl</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RAlt</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Esc</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Tab</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CapsLock</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>BackSpace</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>LShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>RShift</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Enter</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↑</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>↓</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>←</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>→</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>A</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>B</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>C</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>D</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>E</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>G</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>H</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>I</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>J</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>K</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>L</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>M</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>N</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>O</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>P</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Q</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>R</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>S</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>T</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>U</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>V</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>W</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>X</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Y</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Z</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num0</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Num9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F7</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F8</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F9</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F10</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F11</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>F12</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>其他键值（需要在配置文件中修改)</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>鼠标左键点击</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>下滚滚轮</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>按键判定</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1">
+     <widget class="QComboBox" name="comboBox_3">
+      <item>
+       <property name="text">
+        <string>长按</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>单击切换</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>40</y>
+     <width>131</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>按键配置</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>290</y>
+     <width>101</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>其他配置</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>310</y>
+     <width>281</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout_3">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>操作延迟(微秒)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="lineEdit">
+      <property name="text">
+       <string>50000</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>110</y>
+     <width>161</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <widget class="QLabel" name="label_9">
+      <property name="text">
+       <string>页面</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>100</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>主界面</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_2">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>100</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>配置界面(当前)</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>360</y>
+     <width>371</width>
+     <height>102</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QPushButton" name="pushButton_3">
+      <property name="minimumSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>应用配置</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_5">
+      <property name="minimumSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>保存配置</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_4">
+      <property name="minimumSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>读取配置</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
