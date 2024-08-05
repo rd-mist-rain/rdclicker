@@ -1,4 +1,4 @@
-**程序的两个大版本均已停更，rdclicker1的源码在code文件夹中，rdclicker2的项目文件在rdclicker文件夹中** <\br>
+**程序的两个大版本均已停更，rdclicker1的源码在code文件夹中，rdclicker2的项目文件在rdclicker文件夹中** <br/>
 **可能是因为Github的问题，Github上的此项目只有2.2.0.0包保存，需要之前版本的打包可以前往Gitee上的本项目**
 # rdclicker
 #### 注意
