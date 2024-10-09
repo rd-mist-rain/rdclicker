@@ -1,4 +1,5 @@
-**程序的两个大版本均已停更，rdclicker1的源码在code文件夹中，rdclicker2的项目文件在rdclicker文件夹中** <br/>
+**程序的两个大版本均已停更，rdclicker1的源码在code文件夹中，rdclicker2的项目文件在rdclicker文件夹中,但我们为程序制作了重生版本(使用Rust语言),
+详见https://github.com/rd-mist-rain/rdclicker_reborn** <br/>
 **由于某些原因，Github上的此项目只有2.2.0.0包保存，需要之前版本的打包可以前往Gitee上的本项目**
 # rdclicker
 #### 注意
